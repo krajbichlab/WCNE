@@ -8,29 +8,29 @@ West Coast Neuroecon 2025 is organized by:
 
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-6}
+![](images/Ian-Krajbich.jpg){style="width: 200px; height: 200px; object-fit: cover; object-position: center top; border-radius: 8px; margin-bottom: 1rem;"}
+
 ### Ian Krajbich
 
 **University of California, Los Angeles**
 
-Dr. Ian Krajbich is a leading researcher in neuroeconomics and decision neuroscience. His work focuses on understanding the computational and neural mechanisms underlying value-based decision-making, using a combination of behavioral experiments, computational modeling, and neuroimaging techniques.
+Ian Krajbich is a leading researcher in neuroeconomics. His lab uses behavioral experiments, computational modeling, and neuroimaging techniques to study how the brain makes decisions of preference, from simple binary (e.g. do I want to eat an apple or an orange?) to complex multi-attribute (e.g. what apartment should I rent?) choices.
 
-[Faculty Profile](https://www.anderson.ucla.edu/faculty-and-research/marketing/faculty/krajbich) *(Link to be updated)*
+[Lab Website](https://krajbichlab.psych.ucla.edu/people/)
 :::
 
 ::: {.g-col-12 .g-col-md-6}
+![](images/Kiante-Fernandez.jpg){style="width: 200px; height: 200px; object-fit: cover; border-radius: 8px; margin-bottom: 1rem;"}
+
 ### Kianté Fernandez
 
 **University of California, Los Angeles**
 
-Kianté Fernandez conducts research at the intersection of neuroscience, economics, and decision-making. Their work contributes to our understanding of how neural systems support economic choices and decision processes.
+Kianté Fernandez's studies how intelligent systems represent, evaluate, and decide under limited computational resources, integrating approaches from mathematical psychology, neuroscience, and computational psychiatry. His work spans species and methods to uncover how attention, memory, and evaluation processes operate and sometimes fail.
 
-[Faculty Profile](#) *(Link to be updated)*
+[CV](https://www.kiantefernandez.com/files/cv.pdf)
 :::
 :::
-
-## Organizing Committee
-
-Additional organizing committee members will be announced soon.
 
 ---
 

@@ -19,16 +19,10 @@ page-layout: full
 ::: {.content-section}
 ## Welcome
 
-The West Coast Neuroeconomics Mini-Symposium brings together decision scientists from across the West Coast and beyond. This annual event provides a platform for sharing cutting-edge research, fostering collaborations, and advancing our understanding of the neural mechanisms underlying economic decision-making.
+The West Coast Neuroeconomics Mini-Symposium brings together decision scientists from across the West Coast and beyond. This annual event provides a platform for sharing cutting-edge research, fostering collaborations, and advancing our understanding of the mechanisms underlying decision-making.
 
 We expect an engaging and collaborative atmosphere with plenty of opportunities for discussion and connection. We hope to attract participants from throughout Los Angeles including Caltech, USC, and UCLA, as well as researchers from across the West Coast.
 
-### Why Attend?
-
-- **Distinguished Keynote**: Hear from Prof. Christian Ruff on cutting-edge neuroeconomics research
-- **Collaborative Environment**: Engage in meaningful discussions with colleagues
-- **West Coast Community**: Connect with decision scientists from leading institutions
-- **Interactive Sessions**: Participate in talks, posters, and networking opportunities
 :::
 
 ::: {.important-box}
@@ -44,7 +38,7 @@ We expect an engaging and collaborative atmosphere with plenty of opportunities 
 
 ## About the Symposium
 
-The West Coast Neuroeconomics Mini-Symposium is an annual gathering dedicated to advancing the field of neuroeconomics through the presentation and discussion of cutting-edge research. The symposium brings together decision scientists from across the West Coast and beyond, including leading researchers, graduate students, and practitioners interested in understanding the neural, psychological, and computational mechanisms underlying economic decision-making.
+The West Coast Neuroeconomics Mini-Symposium is an annual gathering dedicated to advancing the field of neuroeconomics through the presentation and discussion of cutting-edge research. The symposium brings together decision scientists from across the West Coast and beyond, including leading researchers, graduate students, and practitioners interested in understanding the neural, psychological, and computational mechanisms underlying decision-making.
 
 ### What is Neuroeconomics?
 
@@ -55,32 +49,6 @@ Neuroeconomics is an interdisciplinary field that combines methods from neurosci
 - How social context influences decision-making
 - The role of emotions and cognitive processes in economic choices
 - Applications to understanding real-world decision-making in markets, policy, and everyday life
-
-### Academic Focus Areas
-
-Topics covered at the symposium include:
-
-::: {.grid}
-::: {.g-col-12 .g-col-md-6}
-**Core Topics**
-- Value-based decision making
-- Reward processing and learning
-- Risk and uncertainty
-- Temporal discounting
-- Social decision making
-- Strategic thinking and game theory
-:::
-
-::: {.g-col-12 .g-col-md-6}
-**Methods and Applications**
-- fMRI and neuroimaging techniques
-- Computational modeling
-- Behavioral experiments
-- Eye-tracking and psychophysiology
-- Applications to policy and health
-- Consumer neuroscience
-:::
-:::
 
 ---
 
@@ -135,7 +103,7 @@ The symposium will span two days, May 1-2, 2025:
 | 12:30 PM - 2:00 PM | **Lunch** |
 | 2:00 PM - 3:30 PM | **Contributed Talks Session 1** |
 | 3:30 PM - 4:00 PM | **Afternoon Coffee** |
-| 4:00 PM - 5:30 PM | **Poster Session 1** |
+| 4:00 PM - 5:30 PM | **Session X** |
 | 6:00 PM onwards | **Reception (Optional)** |
 
 #### Day 2 - Friday, May 2 (Tentative)
@@ -147,7 +115,7 @@ The symposium will span two days, May 1-2, 2025:
 | 10:30 AM - 11:00 AM | **Coffee Break** |
 | 11:00 AM - 12:30 PM | **Contributed Talks Session 2** |
 | 12:30 PM - 2:00 PM | **Lunch** |
-| 2:00 PM - 3:30 PM | **Poster Session 2 Discussion** |
+| 2:00 PM - 3:30 PM | **Session 2 Discussion** |
 | 3:30 PM - 4:00 PM | **Afternoon Coffee** |
 | 4:00 PM - 5:00 PM | **Discussion & Future Directions** |
 | 5:00 PM - 5:30 PM | **Closing Remarks** |
@@ -159,13 +127,12 @@ The symposium will span two days, May 1-2, 2025:
 ::: {.important-box}
 **Submit Your Research**
 
-We welcome abstract submissions for contributed talks and poster presentations. Details on abstract submission will be available soon.
+We welcome abstract submissions for contributed talks. Details on abstract submission will be available soon.
 
 **Submission Guidelines (Coming Soon):**
 - Abstract deadline: TBD
 - Notification of acceptance: TBD
 - Format: 250-word abstract
-- Topics: All areas of neuroeconomics
 :::
 
 ### Symposium Format
