@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "West Coast Neuroecon"
+  favicon: images/favicon.png
+  navbar:
+    background: primary
+    foreground: light
+    left:
+      - text: "Overview"
+        href: index.qmd
+      - text: "Attend"
+        href: attend.qmd
+      - text: "Organizers & Sponsors"
+        href: about.qmd
+  page-footer:
+    left: |
+      West Coast Neuroecon &copy; 2025
+    center: |
+      Hosted by UCLA
+    right: |
+      [Contact Us](mailto:wcneuroecon@gmail.com)
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles/custom.scss
+    css: styles/styles.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    code-copy: false
+    code-tools: false

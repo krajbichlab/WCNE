@@ -1,0 +1,201 @@
+---
+title: ""
+page-layout: full
+---
+
+::: {.hero-banner}
+# West Coast Neuroecon 2025
+
+### Annual Mini-Symposium
+
+**Date:** May 1-2, 2025
+**Location:** Luskin Conference Center, UCLA
+**Keynote:** Prof. Christian Ruff, PhD (University of Zurich)
+
+[Registration Information](attend.qmd){.btn .btn-primary .btn-lg}
+[Contact Us](about.qmd){.btn .btn-secondary .btn-lg}
+:::
+
+::: {.content-section}
+## Welcome
+
+The West Coast Neuroeconomics Mini-Symposium brings together decision scientists from across the West Coast and beyond. This annual event provides a platform for sharing cutting-edge research, fostering collaborations, and advancing our understanding of the neural mechanisms underlying economic decision-making.
+
+We expect an engaging and collaborative atmosphere with plenty of opportunities for discussion and connection. We hope to attract participants from throughout Los Angeles including Caltech, USC, and UCLA, as well as researchers from across the West Coast.
+
+### Why Attend?
+
+- **Distinguished Keynote**: Hear from Prof. Christian Ruff on cutting-edge neuroeconomics research
+- **Collaborative Environment**: Engage in meaningful discussions with colleagues
+- **West Coast Community**: Connect with decision scientists from leading institutions
+- **Interactive Sessions**: Participate in talks, posters, and networking opportunities
+:::
+
+::: {.important-box}
+**Important Dates**
+
+- **Symposium Dates: May 1-2, 2025**
+- Abstract Submission Deadline: TBD
+- Registration Opens: TBD
+- Early Bird Registration Deadline: TBD
+:::
+
+---
+
+## About the Symposium
+
+The West Coast Neuroeconomics Mini-Symposium is an annual gathering dedicated to advancing the field of neuroeconomics through the presentation and discussion of cutting-edge research. The symposium brings together decision scientists from across the West Coast and beyond, including leading researchers, graduate students, and practitioners interested in understanding the neural, psychological, and computational mechanisms underlying economic decision-making.
+
+### What is Neuroeconomics?
+
+Neuroeconomics is an interdisciplinary field that combines methods from neuroscience, economics, and psychology to study how the brain makes decisions. The field examines things like:
+
+- How neural systems represent value and process rewards
+- The computational mechanisms underlying choice behavior
+- How social context influences decision-making
+- The role of emotions and cognitive processes in economic choices
+- Applications to understanding real-world decision-making in markets, policy, and everyday life
+
+### Academic Focus Areas
+
+Topics covered at the symposium include:
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-6}
+**Core Topics**
+- Value-based decision making
+- Reward processing and learning
+- Risk and uncertainty
+- Temporal discounting
+- Social decision making
+- Strategic thinking and game theory
+:::
+
+::: {.g-col-12 .g-col-md-6}
+**Methods and Applications**
+- fMRI and neuroimaging techniques
+- Computational modeling
+- Behavioral experiments
+- Eye-tracking and psychophysiology
+- Applications to policy and health
+- Consumer neuroscience
+:::
+:::
+
+---
+
+## Keynote Speaker
+
+::: {.card style="margin: 2rem 0; padding: 2rem;"}
+### Prof. Christian Ruff, PhD
+
+**Professor of Neuroeconomics and Decision Neuroscience**
+**University of Zurich, Department of Economics**
+**Director, Laboratory for Social and Neural Systems Research**
+
+Prof. Ruff is a leading figure in neuroeconomics whose research focuses on human motivation, decision-making, and learning. His work develops models to explain and predict choices and social behavior across diverse contexts, using a multi-methods approach that combines behavioral experiments and computational modeling with neuroimaging and brain stimulation.
+
+After studying psychology, cognitive science, and neurobiology in Freiburg (Germany) and Vancouver (Canada), Prof. Ruff obtained his PhD in cognitive neuroscience at University College London in 2007. He founded the Laboratory for Social and Neural Systems Research (SNS Lab) in 2007 and has been at the University of Zurich since 2010.
+
+**Research Interests:**
+- Neural mechanisms of decision-making and social behavior
+- Computational modeling of choice and learning
+- Value-based decision processes
+- Brain stimulation and neuroimaging methods
+
+[Faculty Profile](https://www.econ.uzh.ch/en/people/faculty/ruff.html) | [Google Scholar](https://scholar.google.com/citations?user=yY3StJ8AAAAJ)
+:::
+
+### Additional Speakers
+
+We are currently confirming additional invited speakers for West Coast Neuroecon 2025. Speaker announcements will be made in the coming weeks. Stay tuned for updates!
+
+---
+
+## Symposium Program
+
+**Dates: May 1-2, 2025**
+**Location: Meyer & Renee Luskin Conference Center, UCLA**
+
+The detailed program for West Coast Neuroecon 2025 will be announced soon. Check back for updates on session times, speakers, and topics.
+
+### Tentative Schedule
+
+The symposium will span two days, May 1-2, 2025:
+
+#### Day 1 - Thursday, May 1 (Tentative)
+
+| Time | Session |
+|------|---------|
+| 8:30 AM - 9:00 AM | **Registration & Coffee** |
+| 9:00 AM - 9:15 AM | **Welcome & Opening Remarks** |
+| 9:15 AM - 10:30 AM | **Keynote: Prof. Christian Ruff** |
+| 10:30 AM - 11:00 AM | **Coffee Break** |
+| 11:00 AM - 12:30 PM | **Invited Talks Session 1** |
+| 12:30 PM - 2:00 PM | **Lunch** |
+| 2:00 PM - 3:30 PM | **Contributed Talks Session 1** |
+| 3:30 PM - 4:00 PM | **Afternoon Coffee** |
+| 4:00 PM - 5:30 PM | **Poster Session 1** |
+| 6:00 PM onwards | **Reception (Optional)** |
+
+#### Day 2 - Friday, May 2 (Tentative)
+
+| Time | Session |
+|------|---------|
+| 8:30 AM - 9:00 AM | **Coffee** |
+| 9:00 AM - 10:30 AM | **Invited Talks Session 2** |
+| 10:30 AM - 11:00 AM | **Coffee Break** |
+| 11:00 AM - 12:30 PM | **Contributed Talks Session 2** |
+| 12:30 PM - 2:00 PM | **Lunch** |
+| 2:00 PM - 3:30 PM | **Poster Session 2 Discussion** |
+| 3:30 PM - 4:00 PM | **Afternoon Coffee** |
+| 4:00 PM - 5:00 PM | **Discussion & Future Directions** |
+| 5:00 PM - 5:30 PM | **Closing Remarks** |
+
+*Note: This is a tentative schedule and may be adjusted based on the final program and number of submissions.*
+
+### Call for Abstracts
+
+::: {.important-box}
+**Submit Your Research**
+
+We welcome abstract submissions for contributed talks and poster presentations. Details on abstract submission will be available soon.
+
+**Submission Guidelines (Coming Soon):**
+- Abstract deadline: TBD
+- Notification of acceptance: TBD
+- Format: 250-word abstract
+- Topics: All areas of neuroeconomics
+:::
+
+### Symposium Format
+
+The symposium typically features:
+
+- **Invited Talks**: Presentations from leading researchers in the field
+- **Contributed Talks**: Selected presentations from submitted abstracts
+- **Closed Sessions**: informal presentations 
+- **Networking Events**: Social gatherings to facilitate connections and collaborations
+
+---
+
+::: {.content-section}
+## History
+
+The West Coast Neuroeconomics symposium has been bringing together the decision science community for 3 years. Previous symposiums have been hosted at UC San Diego's Rady School of Management, featuring presentations from leading researchers and fostering important collaborations that have advanced the field.
+
+This year, we are excited to host the symposium at UCLA's Meyer & Renee Luskin Conference Center, continuing our tradition of excellence and expanding our reach within the research community.
+
+::: {.grid style="margin-top: 2rem;"}
+::: {.g-col-6 .g-col-md-3}
+![](images/id-campuslogos.jpg){style="max-height: 80px; width: auto;"}
+:::
+::: {.g-col-6 .g-col-md-3}
+![](images/snelogo.jpeg){style="max-height: 80px; width: auto;"}
+:::
+:::
+:::
+
+::: {.info-box}
+For questions about the symposium, please contact us at [wcneuroecon@gmail.com](mailto:wcneuroecon@gmail.com)
+:::

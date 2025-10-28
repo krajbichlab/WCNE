@@ -1,0 +1,99 @@
+---
+title: "Organizers & Sponsors"
+---
+
+## 2025 Symposium Organizers
+
+West Coast Neuroecon 2025 is organized by:
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-6}
+### Ian Krajbich
+
+**University of California, Los Angeles**
+
+Dr. Ian Krajbich is a leading researcher in neuroeconomics and decision neuroscience. His work focuses on understanding the computational and neural mechanisms underlying value-based decision-making, using a combination of behavioral experiments, computational modeling, and neuroimaging techniques.
+
+[Faculty Profile](https://www.anderson.ucla.edu/faculty-and-research/marketing/faculty/krajbich) *(Link to be updated)*
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### Kianté Fernandez
+
+**University of California, Los Angeles**
+
+Kianté Fernandez conducts research at the intersection of neuroscience, economics, and decision-making. Their work contributes to our understanding of how neural systems support economic choices and decision processes.
+
+[Faculty Profile](#) *(Link to be updated)*
+:::
+:::
+
+## Organizing Committee
+
+Additional organizing committee members will be announced soon.
+
+---
+
+## Acknowledgments
+
+We gratefully acknowledge the support of our sponsors and partners:
+
+### Major Support
+
+::: {.card style="margin: 2rem 0; padding: 2rem;"}
+#### The Luskin Lecture for Thought Leadership
+
+We are proud to acknowledge the generous support of **The Luskin Lecture for Thought Leadership** at UCLA College.
+
+The Luskin Lecture for Thought Leadership was established in 2011 as part of a transformative gift from Meyer and Renee Luskin. The lecture series has featured distinguished speakers including President Bill Clinton, Kofi Annan, Hillary Rodham Clinton, and other world leaders, giving UCLA College an opportunity to share knowledge and expand the dialogue among scholars, leaders in government and business, and the greater Los Angeles community.
+
+[Learn more about the Luskin Lecture](https://www.college.ucla.edu/luskinthoughtlecture/about-the-luskin-lecture/)
+:::
+
+### Institutional Supporters
+
+::: {.grid style="margin: 2rem 0;"}
+::: {.g-col-12 .g-col-md-6}
+![UCLA](images/id-campuslogos.jpg){style="max-width: 300px; width: 100%; height: auto;"}
+
+**University of California, Los Angeles**
+- Anderson School of Management
+- Department of Psychology
+- UCLA College
+:::
+
+::: {.g-col-12 .g-col-md-6}
+![Society for Neuroeconomics](images/snelogo.jpeg){style="max-width: 300px; width: 100%; height: auto;"}
+
+**Society for Neuroeconomics**
+
+The Society for Neuroeconomics is an interdisciplinary academic society promoting research on the neural and psychological mechanisms underlying economic decision-making.
+:::
+:::
+
+*Additional sponsors will be listed here as they are confirmed.*
+
+---
+
+## Volunteer Opportunities
+
+We welcome volunteers to help with symposium organization and logistics. If you are interested in volunteering, please contact us at [wcneuroecon@gmail.com](mailto:wcneuroecon@gmail.com).
+
+---
+
+## Contact the Organizers
+
+For questions, suggestions, or inquiries about the symposium, sponsorship, or volunteering:
+
+**Email:** [wcneuroecon@gmail.com](mailto:wcneuroecon@gmail.com)
+
+---
+
+## Previous Organizers & History
+
+The West Coast Neuroeconomics symposium has been successfully organized by various institutions over the years. We thank all previous organizers for their contributions to building this important community event.
+
+**Past Host Institutions:**
+- UC San Diego (Rady School of Management)
+
+We are excited to continue this tradition at UCLA's Meyer & Renee Luskin Conference Center in 2025.

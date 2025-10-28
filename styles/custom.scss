@@ -1,0 +1,141 @@
+/*-- scss:defaults --*/
+
+// Custom color scheme - Professional academic blues
+$primary: #003B5C; // UCLA Blue
+$secondary: #FFD100; // UCLA Gold
+$success: #2E7D32;
+$info: #0288D1;
+$light: #F5F5F5;
+$dark: #212121;
+
+// Typography
+$font-family-sans-serif: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$headings-font-weight: 600;
+$headings-color: $primary;
+
+// Navbar
+$navbar-bg: $primary;
+$navbar-fg: white;
+
+/*-- scss:rules --*/
+
+// Hero section styling
+.hero-banner {
+  background: linear-gradient(135deg, $primary 0%, lighten($primary, 15%) 100%);
+  color: white;
+  padding: 4rem 2rem;
+  margin-bottom: 2rem;
+  border-radius: 0;
+  text-align: center;
+}
+
+.hero-banner h1 {
+  color: white;
+  font-size: 3rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+.hero-banner .lead {
+  font-size: 1.5rem;
+  margin-bottom: 2rem;
+  opacity: 0.95;
+}
+
+// Section styling
+.content-section {
+  padding: 3rem 0;
+}
+
+.section-title {
+  color: $primary;
+  font-size: 2.5rem;
+  font-weight: 600;
+  margin-bottom: 2rem;
+  border-bottom: 3px solid $secondary;
+  padding-bottom: 0.5rem;
+}
+
+// Card styling for speakers, organizers
+.card {
+  border: none;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s, box-shadow 0.2s;
+  margin-bottom: 2rem;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+}
+
+.card-title {
+  color: $primary;
+  font-weight: 600;
+}
+
+// Highlight boxes
+.info-box {
+  background-color: lighten($info, 45%);
+  border-left: 4px solid $info;
+  padding: 1.5rem;
+  margin: 2rem 0;
+  border-radius: 4px;
+}
+
+.important-box {
+  background-color: lighten($secondary, 40%);
+  border-left: 4px solid darken($secondary, 20%);
+  padding: 1.5rem;
+  margin: 2rem 0;
+  border-radius: 4px;
+}
+
+// Button styling
+.btn-primary {
+  background-color: $primary;
+  border-color: $primary;
+  font-weight: 600;
+  padding: 0.75rem 2rem;
+
+  &:hover {
+    background-color: darken($primary, 10%);
+    border-color: darken($primary, 10%);
+  }
+}
+
+.btn-secondary {
+  background-color: $secondary;
+  border-color: $secondary;
+  color: $dark;
+  font-weight: 600;
+  padding: 0.75rem 2rem;
+
+  &:hover {
+    background-color: darken($secondary, 10%);
+    border-color: darken($secondary, 10%);
+  }
+}
+
+// Footer
+.nav-footer {
+  background-color: $dark;
+  color: white;
+  padding: 2rem 0;
+  margin-top: 4rem;
+}
+
+// Responsive adjustments
+@media (max-width: 768px) {
+  .hero-banner h1 {
+    font-size: 2rem;
+  }
+
+  .hero-banner .lead {
+    font-size: 1.2rem;
+  }
+
+  .section-title {
+    font-size: 2rem;
+  }
+}
