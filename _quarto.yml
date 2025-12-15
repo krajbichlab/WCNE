@@ -17,7 +17,7 @@ website:
     left: |
       West Coast Neuroecon &copy; 2026
     center: |
-      Hosted by UCLA
+      Hosted by: ![](images/id-campuslogos.jpg){.footer-logo}
     right: |
       [Contact Us](mailto:wcneuroecon@gmail.com)
 

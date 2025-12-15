@@ -8,11 +8,11 @@ page-layout: full
 
 ### Annual Mini-Symposium
 
-**May 1-2, 2026** | Luskin Conference Center, UCLA
+**May 1, 2026** | Luskin Conference Center, UCLA
 :::
 
 ::: {.intro-text}
-The West Coast Neuroeconomics Mini-Symposium brings together decision scientists from across the West Coast and beyond. Join us for two days of cutting-edge research, collaboration, and discussion on the mechanisms underlying decision-making.
+The West Coast Neuroeconomics Mini-Symposium brings together decision scientists from across the West Coast and beyond. Join us for a day of cutting-edge research, collaboration, and discussion on the mechanisms underlying decision-making.
 :::
 
 ---
@@ -40,49 +40,28 @@ Prof. Ruff's research focuses on human motivation, decision-making, and learning
 
 ::: {.speaker-grid}
 ::: {.speaker-card}
-::: {.speaker-placeholder}
-:::
-TBA
-:::
-::: {.speaker-card}
-::: {.speaker-placeholder}
-:::
-TBA
+![](images/Ian-Ballard.jpg){.speaker-img}
+Ian Ballard
 :::
 ::: {.speaker-card}
-::: {.speaker-placeholder}
-:::
-TBA
-:::
-::: {.speaker-card}
-::: {.speaker-placeholder}
-:::
-TBA
+![](images/John-Clithero.jpg){.speaker-img}
+John A. Clithero
 :::
 ::: {.speaker-card}
-::: {.speaker-placeholder}
-:::
-TBA
-:::
-::: {.speaker-card}
-::: {.speaker-placeholder}
-:::
-TBA
+![](images/Cary-Frydman.jpg){.speaker-img}
+Cary Frydman
 :::
 ::: {.speaker-card}
-::: {.speaker-placeholder}
-:::
-TBA
-:::
-::: {.speaker-card}
-::: {.speaker-placeholder}
-:::
-TBA
+![](images/Leor-Hackel.jpg){.speaker-img}
+Leor Hackel
 :::
 ::: {.speaker-card}
-::: {.speaker-placeholder}
+![](images/Ming-Hsu.jpg){.speaker-img}
+Ming Hsu
 :::
-TBA
+::: {.speaker-card}
+![](images/Nina-Rouhani.jpg){.speaker-img}
+Nina Rouhani
 :::
 :::
 
@@ -92,19 +71,17 @@ TBA
 
 | Time | Session |
 |------|---------|
-| 9:30 AM | Coffee |
-| 10:00 AM | Talk 1 |
-| 10:30 AM | Talk 2 |
-| 11:00 AM | Talk 3 |
-| 11:30 AM | Coffee Break |
-| 12:00 PM | Talk 4 |
-| 12:30 PM | Talk 5 |
-| 1:00 PM | Lunch |
-| 2:30 PM | Talk 6 |
-| 3:00 PM | Talk 7 |
-| 3:30 PM | Talk 8 |
-| 4:00 PM | Talk 9 |
-| 4:30 PM | Closing Remarks |
+| 10:00 - 10:30 AM | Talk 1 |
+| 10:30 - 11:00 AM | Talk 2 |
+| 11:00 - 11:30 AM | Coffee Break |
+| 11:30 - 12:00 PM | Talk 3 |
+| 12:00 - 12:30 PM | Talk 4 |
+| 12:30 - 1:30 PM | Lunch |
+| 1:30 - 2:30 PM | Plenary Talk |
+| 2:30 - 3:00 PM | Coffee Break |
+| 3:00 - 3:30 PM | Talk 5 |
+| 3:30 - 4:00 PM | Talk 6 |
+| 4:00 - 4:30 PM | Talk 7 |
 | 6:00 PM | Dinner |
 
 ---
@@ -160,10 +137,6 @@ UCLA | [CV](https://www.kiantefernandez.com/files/cv.pdf)
 Generously supported by Meyer and Renee Luskin. [Learn more](https://www.college.ucla.edu/luskinthoughtlecture/about-the-luskin-lecture/)
 :::
 
-::: {.sponsor-logos}
-![](images/id-campuslogos.jpg)
-![](images/snelogo.jpeg)
-:::
 
 ---
 
