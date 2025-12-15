@@ -1,12 +1,12 @@
 /*-- scss:defaults --*/
 
-// Custom color scheme - Professional academic blues
+// UCLA Colors
 $primary: #003B5C; // UCLA Blue
 $secondary: #FFD100; // UCLA Gold
 $success: #2E7D32;
 $info: #0288D1;
-$light: #F5F5F5;
-$dark: #212121;
+$light: #FAFAFA;
+$dark: #1a1a1a;
 
 // Typography
 $font-family-sans-serif: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -19,123 +19,268 @@ $navbar-fg: white;
 
 /*-- scss:rules --*/
 
-// Hero section styling
+// Base typography
+body {
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #333;
+}
+
+// Content container for better readability
+.content-wrapper {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+// Hero section
 .hero-banner {
-  background: linear-gradient(135deg, $primary 0%, lighten($primary, 15%) 100%);
+  background: linear-gradient(135deg, $primary 0%, darken($primary, 8%) 100%);
   color: white;
-  padding: 4rem 2rem;
-  margin-bottom: 2rem;
-  border-radius: 0;
+  padding: 5rem 2rem;
+  margin-bottom: 0;
   text-align: center;
+  border-bottom: 5px solid $secondary;
 }
 
 .hero-banner h1 {
   color: white;
-  font-size: 3rem;
+  font-size: 3.5rem;
   font-weight: 700;
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
+  letter-spacing: -0.5px;
 }
 
-.hero-banner .lead {
+.hero-banner h3 {
+  color: $secondary;
+  font-size: 1.6rem;
+  font-weight: 400;
+  margin-bottom: 1.5rem;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.hero-banner p {
+  color: white;
   font-size: 1.5rem;
-  margin-bottom: 2rem;
-  opacity: 0.95;
+  margin: 0.5rem 0;
 }
 
-// Section styling
-.content-section {
-  padding: 3rem 0;
+.hero-banner strong {
+  color: white;
+  font-weight: 400;
 }
 
-.section-title {
-  color: $primary;
-  font-size: 2.5rem;
+// Intro paragraph
+.intro-text {
+  font-size: 1.25rem;
   font-weight: 600;
-  margin-bottom: 2rem;
-  border-bottom: 3px solid $secondary;
-  padding-bottom: 0.5rem;
+  line-height: 1.7;
+  color: #333;
+  text-align: center;
+  max-width: 850px;
+  margin: 2rem auto;
+  padding: 0 1rem;
 }
 
-// Card styling for speakers, organizers
+// Section headers
+h2 {
+  color: $primary;
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: 2.5rem 0 1.25rem 0;
+  padding-bottom: 0.4rem;
+  border-bottom: 3px solid $secondary;
+}
+
+h3 {
+  color: $primary;
+  font-size: 1.15rem;
+  font-weight: 600;
+  margin: 0.5rem 0;
+}
+
+// Paragraph styling
+p {
+  margin: 0.75rem 0;
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+// Card styling
 .card {
   border: none;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-  transition: transform 0.2s, box-shadow 0.2s;
-  margin-bottom: 2rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  border-radius: 8px;
+  margin: 1.5rem 0;
+  border-top: 3px solid $secondary;
 }
 
-.card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
-}
-
-.card-title {
-  color: $primary;
-  font-weight: 600;
-}
-
-// Highlight boxes
+// Info box
 .info-box {
-  background-color: lighten($info, 45%);
-  border-left: 4px solid $info;
-  padding: 1.5rem;
+  background: linear-gradient(135deg, lighten($secondary, 42%) 0%, lighten($secondary, 38%) 100%);
+  border-left: 4px solid $secondary;
+  padding: 1.25rem 1.5rem;
   margin: 2rem 0;
-  border-radius: 4px;
+  border-radius: 0 6px 6px 0;
+  font-size: 0.95rem;
 }
 
+// Important box
 .important-box {
-  background-color: lighten($secondary, 40%);
-  border-left: 4px solid darken($secondary, 20%);
-  padding: 1.5rem;
-  margin: 2rem 0;
-  border-radius: 4px;
+  background: rgba($secondary, 0.08);
+  border: 2px solid rgba($secondary, 0.4);
+  padding: 1.25rem 1.5rem;
+  margin: 1.5rem 0;
+  border-radius: 8px;
+  font-size: 0.95rem;
 }
 
-// Button styling
+.important-box strong {
+  color: $primary;
+  font-size: 1rem;
+}
+
+// Buttons
 .btn-primary {
-  background-color: $primary;
-  border-color: $primary;
-  font-weight: 600;
-  padding: 0.75rem 2rem;
-
-  &:hover {
-    background-color: darken($primary, 10%);
-    border-color: darken($primary, 10%);
-  }
-}
-
-.btn-secondary {
   background-color: $secondary;
   border-color: $secondary;
-  color: $dark;
+  color: $primary;
   font-weight: 600;
-  padding: 0.75rem 2rem;
+  padding: 0.6rem 1.5rem;
+  font-size: 0.9rem;
+  border-radius: 4px;
 
   &:hover {
-    background-color: darken($secondary, 10%);
-    border-color: darken($secondary, 10%);
+    background-color: darken($secondary, 8%);
+    border-color: darken($secondary, 8%);
+    color: $primary;
   }
+}
+
+// Grid sections
+.grid {
+  margin: 1rem 0;
+}
+
+.grid h3 {
+  font-size: 1.1rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.15rem;
+}
+
+// Organizers section
+.organizer-grid {
+  display: flex;
+  justify-content: center;
+  gap: 3rem;
+  flex-wrap: wrap;
+}
+
+.organizer-card {
+  text-align: center;
+}
+
+.organizer-card p {
+  margin: 0.25rem 0;
+  font-size: 0.9rem;
+}
+
+// Speaker grid
+.speaker-grid {
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.speaker-card {
+  text-align: center;
+  width: 90px;
+}
+
+.speaker-placeholder {
+  width: 80px;
+  height: 80px;
+  background: linear-gradient(135deg, #e8e8e8 0%, #d8d8d8 100%);
+  border: 2px dashed #bbb;
+  border-radius: 50%;
+  margin: 0 auto 0.4rem auto;
+}
+
+.speaker-card p {
+  margin: 0;
+  font-size: 0.8rem;
+  color: #666;
 }
 
 // Footer
 .nav-footer {
-  background-color: $dark;
+  background-color: $primary;
   color: white;
-  padding: 2rem 0;
-  margin-top: 4rem;
+  padding: 1.25rem 0;
+  margin-top: 2rem;
+  border-top: 3px solid $secondary;
+  font-size: 0.85rem;
 }
 
-// Responsive adjustments
+.nav-footer a {
+  color: $secondary !important;
+}
+
+// Navbar
+.navbar {
+  border-bottom: 3px solid $secondary;
+  padding: 0.5rem 1rem;
+}
+
+.navbar-brand {
+  font-weight: 700 !important;
+  font-size: 1.1rem !important;
+}
+
+.navbar-logo {
+  max-height: 40px;
+  width: auto;
+  margin-right: 0.5rem;
+}
+
+// Horizontal rules
+hr {
+  border: none;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba($secondary, 0.5), transparent);
+  margin: 2.5rem 0;
+}
+
+// Keynote section styling
+.keynote-section {
+  background: #f9f9f9;
+  padding: 1.5rem;
+  border-radius: 8px;
+  margin: 1rem 0;
+}
+
+// Responsive
 @media (max-width: 768px) {
   .hero-banner h1 {
     font-size: 2rem;
   }
 
-  .hero-banner .lead {
-    font-size: 1.2rem;
+  .hero-banner {
+    padding: 2.5rem 1rem;
   }
 
-  .section-title {
-    font-size: 2rem;
+  h2 {
+    font-size: 1.35rem;
+  }
+
+  .intro-text {
+    font-size: 1rem;
+  }
+
+  .organizer-grid {
+    gap: 2rem;
   }
 }

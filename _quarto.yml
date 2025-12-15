@@ -5,19 +5,17 @@ project:
 website:
   title: "West Coast Neuroecon"
   favicon: images/favicon.png
+  search: false
   navbar:
     background: primary
     foreground: light
-    left:
-      - text: "Overview"
-        href: index.qmd
-      - text: "Attend"
-        href: attend.qmd
-      - text: "Organizers & Sponsors"
-        href: about.qmd
+    search: false
+    right:
+      - text: "Register"
+        href: "https://forms.gle/qsXzPKDpUPiYEhgcA"
   page-footer:
     left: |
-      West Coast Neuroecon &copy; 2025
+      West Coast Neuroecon &copy; 2026
     center: |
       Hosted by UCLA
     right: |
