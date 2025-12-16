@@ -1,6 +1,6 @@
 # West Coast Neuroecon 2025 Website
 
-This is the official website for the West Coast Neuroeconomics Mini-Symposium 2025, hosted at UCLA and organized by Ian Krajbich and Kianté Fernandez.
+This is the official website for the West Coast Neuroeconomics Symposium 2025, hosted at UCLA and organized by Ian Krajbich and Kianté Fernandez.
 
 ## About
 
