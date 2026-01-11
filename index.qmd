@@ -86,9 +86,9 @@ Leor Hackel
 | 12:00 - 12:30 PM | Talk 4 |
 | 12:30 - 1:30 PM | Lunch |
 | 1:30 - 2:15 PM | Plenary Talk |
-| 2:15 - 2:45 PM | Coffee Break |
-| 2:45 - 3:15 PM | Talk 5 |
-| 3:15 - 3:45 PM | Talk 6 |
+| 2:15 - 2:45 PM | Talk 5 |
+| 2:45 - 3:15 PM | Talk 6 |
+| 3:15 - 3:45 PM | Coffee Break |
 | 3:45 - 4:15 PM | Talk 7 |
 | 4:15 - 4:45 PM | Talk 8 |
 | 4:45 - 5:15 PM | Talk 9 |
