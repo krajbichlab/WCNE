@@ -40,8 +40,8 @@ Prof. Ruff's research focuses on human motivation, decision-making, and learning
 
 ::: {.speaker-grid}
 ::: {.speaker-card}
-![](images/Cary-Frydman.jpg){.speaker-img}
-Cary Frydman
+![](images/Ming-Hsu.jpg){.speaker-img}
+Ming Hsu
 :::
 ::: {.speaker-card}
 ![](images/Nina-Rouhani.jpg){.speaker-img}
@@ -56,20 +56,20 @@ Ian Ballard
 Kate Wassum
 :::
 ::: {.speaker-card}
-![](images/Ming-Hsu.jpg){.speaker-img}
-Ming Hsu
+![](images/Leor-Hackel.jpg){.speaker-img}
+Leor Hackel
 :::
 ::: {.speaker-card}
 ![](images/Uma-Karmarkar.jpg){.speaker-img}
 Uma R. Karmarkar
 :::
 ::: {.speaker-card}
-![](images/John-Clithero.jpg){.speaker-img}
-John A. Clithero
+![](images/Cary-Frydman.jpg){.speaker-img}
+Cary Frydman
 :::
 ::: {.speaker-card}
-![](images/Leor-Hackel.jpg){.speaker-img}
-Leor Hackel
+![](images/John-Clithero.jpg){.speaker-img}
+John A. Clithero
 :::
 ::: {.speaker-card}
 ![](images/Dan-Schley.jpg){.speaker-img}
@@ -83,20 +83,20 @@ Dan Schley
 
 | Time | Session |
 |------|---------|
-| 10:00 - 10:25 AM | Talk 1 |
-| 10:25 - 10:50 AM | Talk 2 |
-| 10:50 - 11:15 AM | Talk 3 |
+| 10:00 - 10:25 AM | **Ming Hsu** — Open-ended decision making: Because life is not a multiple choice test |
+| 10:25 - 10:50 AM | **Nina Rouhani** — Features and dynamics of social inference in real-world interactions |
+| 10:50 - 11:15 AM | **Ian Ballard** — Cue-Driven Disruption of Goal-Directed Behavior by Social Media Habits |
 | 11:15 - 11:45 AM | Coffee Break |
-| 11:45 - 12:10 PM | Talk 4 |
-| 12:10 - 12:35 PM | Talk 5 |
+| 11:45 - 12:10 PM | **Kate Wassum** — Brain mechanisms of reward learning and decision making |
+| 12:10 - 12:35 PM | **Leor Hackel** — Social concepts simplify complex reward learning |
 | 12:35 - 1:35 PM | Lunch |
-| 1:35 - 2:20 PM | Plenary Talk |
-| 2:20 - 2:45 PM | Talk 6 |
-| 2:45 - 3:10 PM | Talk 7 |
+| 1:35 - 2:20 PM | **Plenary: Christian Ruff** |
+| 2:20 - 2:45 PM | **Uma R. Karmarkar** — Now vs later |
+| 2:45 - 3:10 PM | **Cary Frydman** — Cognitive imprecision and strategic interactions |
 | 3:10 - 3:40 PM | Coffee Break |
-| 3:40 - 4:05 PM | Talk 8 |
-| 4:05 - 4:30 PM | Talk 9 |
-| 4:30 - 4:55 PM | Talk 10 |
+| 3:40 - 4:05 PM | **John A. Clithero** — Knowledge Diffusion of Psychology and Neuroscience in Consumer Research |
+| 4:05 - 4:30 PM | **Dan Schley** — Perceiving Before Choosing: A Domain-General Model of Bounded Rationality |
+| 4:30 - 4:45 PM | Closing Remarks |
 | 6:00 PM | Dinner (invitation only) |
 
 ---
