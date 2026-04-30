@@ -119,7 +119,13 @@ Dan Schley
 
 ## Registration
 
-Registration is free. [Register here](https://forms.gle/qsXzPKDpUPiYEhgcA)
+::: {.important-box}
+**Registration is now closed.**
+
+Thank you to everyone who registered — we're looking forward to seeing you on May 1!
+
+If you have questions about your registration, please contact us at [wcneuroecon@gmail.com](mailto:wcneuroecon@gmail.com).
+:::
 
 ---
 
